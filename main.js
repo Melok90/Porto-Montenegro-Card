@@ -20,11 +20,5 @@ var swiper = new Swiper(".mySwiper", {
     pagination: {
       el: ".swiper-pagination-2",
     },
-    breakpoints: {
-      768: {
-        slidesPerView: 3,
-        spaceBetween: 10,
-      },
-      
-    },
+   
   });
